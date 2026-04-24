@@ -1,1 +1,1 @@
-# Daily-Challenges
+Solutions for FreeCodeCamp Daily Coding Challenge
