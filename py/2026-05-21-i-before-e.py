@@ -1,8 +1,6 @@
 """
 Challenge: I Before E
-Description: Given a word or sentence, return a corrected version where every word follows the "I before E except after C" rule.
-If a word contains "ei" not preceded by "c", replace it with "ie".
-If a word contains "ie" preceded by "c", replace it with "ei".
+Link: https://www.freecodecamp.org/learn/daily-coding-challenge/2026-05-21
 """
 
 def i_before_e(sentence):
