@@ -1,7 +1,6 @@
 """
 Challenge: String Zipper
-Description: Given two strings, return a new string that interleaves their characters one at a time. 
-If one string is longer, append the remaining characters at the end.
+Link: https://www.freecodecamp.org/learn/daily-coding-challenge/2026-05-20
 """
 
 def zip_strings(a, b):
